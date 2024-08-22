@@ -83,10 +83,10 @@ http://localhost:8000/api/schema/swagger-ui/
 Key Endpoints Overview
 Authentication
 ```
-POST /api/auth/register/: Register a new user.
+POST /api/users/register/: Register a new user.
 ```
 ```
-POST /api/auth/login/: Login and obtain a JWT token.
+POST /api/users/login/: Login and obtain a JWT token.
 ```
 Story Management
 ```
